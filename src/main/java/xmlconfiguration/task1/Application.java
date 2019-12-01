@@ -8,7 +8,7 @@ public class Application {
 
     public static void main(String[] args) {
 
-        ApplicationContext context = new ClassPathXmlApplicationContext("XmlAppConfiguration.xml");
+        ApplicationContext context = new ClassPathXmlApplicationContext("xmlconfiguration.task1/XmlAppConfiguration.xml");
         HelloWorld helloWorld = (HelloWorld) context.getBean("helloWorld");
         helloWorld.getMessage();
         ((ClassPathXmlApplicationContext) context).close();
