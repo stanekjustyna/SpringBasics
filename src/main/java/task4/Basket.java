@@ -5,6 +5,9 @@ import org.springframework.beans.factory.InitializingBean;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 
+import javax.annotation.PostConstruct;
+import java.util.Random;
+
 @Component
 public class Basket implements InitializingBean, DisposableBean {
 
@@ -24,6 +27,12 @@ public class Basket implements InitializingBean, DisposableBean {
 
     public int getId() {
         return id;
+    }
+
+    @PostConstruct
+    public void init(){
+        Random random = new Random();
+        this.setId(random.nextInt());
     }
 
     public void destroy() throws Exception {
