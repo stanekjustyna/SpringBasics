@@ -2,10 +2,15 @@ package task4;
 
 import org.springframework.beans.factory.DisposableBean;
 import org.springframework.beans.factory.InitializingBean;
+import org.springframework.stereotype.Component;
 
+@Component
 public class Basket implements InitializingBean, DisposableBean {
 
-    private int id;
+    private int id = 10;
+
+    public Basket() {
+    }
 
     public Basket(int id) {
         this.id = id;
