@@ -2,12 +2,14 @@ package task4;
 
 import org.springframework.beans.factory.DisposableBean;
 import org.springframework.beans.factory.InitializingBean;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 
 @Component
 public class Basket implements InitializingBean, DisposableBean {
 
-    private int id = 10;
+    @Value("10")
+    private int id;
 
     public Basket() {
     }
