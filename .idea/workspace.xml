@@ -4,8 +4,6 @@
     <list default="true" id="60dcba75-0347-45c9-a8ba-4c289b080213" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/task4/Basket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task4/Basket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/task4/a/BasketConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task4/a/BasketConfiguration.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,33 +21,35 @@
         <counts>
           <entry key="project.closed" value="1" />
           <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="41" />
+          <entry key="java" value="67" />
           <entry key="xml" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="41" />
+          <entry key="JAVA" value="67" />
           <entry key="XML" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2528" />
+          <entry key="java" value="3788" />
           <entry key="xml" value="174" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2528" />
+          <entry key="JAVA" value="3788" />
           <entry key="XML" value="174" />
         </counts>
       </usages-collector>
@@ -58,55 +58,82 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/task4/Basket.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/task7/OrderAppTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="43" column="35" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/task6/CustomBeanPostProcessor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="22" column="97" selection-start-line="22" selection-start-column="97" selection-end-line="22" selection-end-column="97" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
-              <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/task4/BasketApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="59" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/task4/a/BasketConfiguration.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            <state relative-caret-position="337">
+              <caret line="33" column="41" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/task4/a/BasketApplication.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/task7/OrderBeanPostProcessor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+            <state relative-caret-position="170">
+              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/task7/OrderConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/task7/OrderDAOImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/task7/OrderDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/task7/OrderService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/task7/OrderServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/task7/Order.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="31" column="13" lean-forward="true" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/task7/OrderApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="233">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -116,6 +143,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -166,6 +194,15 @@
         <option value="$PROJECT_DIR$/src/main/java/task4/Basket.java" />
         <option value="$PROJECT_DIR$/src/main/java/task6/CustomBeanPostProcessor.java" />
         <option value="$PROJECT_DIR$/src/main/java/task4/a/BasketConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/task7/OrderDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/task7/OrderService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/task7/OrderConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/task7/OrderApp.java" />
+        <option value="$PROJECT_DIR$/src/test/java/task7/OrderAppTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/task7/OrderDAOImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/task7/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/task7/Order.java" />
+        <option value="$PROJECT_DIR$/src/main/java/task7/OrderBeanPostProcessor.java" />
       </list>
     </option>
   </component>
@@ -176,11 +213,10 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="951" />
-    <option name="y" value="-9" />
-    <option name="width" value="978" />
-    <option name="height" value="1048" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="width" value="977" />
+    <option name="height" value="1030" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -188,6 +224,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -220,24 +257,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="task4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="task4" type="462c0819:PsiDirectoryNode" />
-              <item name="a" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="task6" type="462c0819:PsiDirectoryNode" />
+              <item name="task7" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringTasks" type="b2602c69:ProjectViewProjectNode" />
@@ -251,6 +271,22 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringTasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringTasks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="task2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringTasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringTasks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="task7" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringTasks" type="b2602c69:ProjectViewProjectNode" />
@@ -263,11 +299,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575401043161" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576427394836" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../SDA/Wzorce projektowe/Klon repozytorium" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -294,7 +329,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BasketApplication (1)">
+  <component name="RunManager" selected="Application.OrderApp">
     <configuration name="BasketApplication (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="task4.a.BasketApplication" />
       <module name="SpringTasks" />
@@ -308,12 +343,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BasketApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task4.BasketApplication" />
+    <configuration name="OrderApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task7.OrderApp" />
       <module name="SpringTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task4.*" />
+          <option name="PATTERN" value="task7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -334,50 +369,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShopAppTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="OrderAppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SpringTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task3.*" />
+          <option name="PATTERN" value="task7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="task3" />
-      <option name="MAIN_CLASS_NAME" value="task3.ShopAppTest2" />
+      <option name="PACKAGE_NAME" value="task7" />
+      <option name="MAIN_CLASS_NAME" value="task7.OrderAppTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShopAppTest2.shouldBeSingletonBean" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="OrderAppTest.shouldOrdersBeReturned" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SpringTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task3.*" />
+          <option name="PATTERN" value="task7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="task3" />
-      <option name="MAIN_CLASS_NAME" value="task3.ShopAppTest2" />
-      <option name="METHOD_NAME" value="shouldBeSingletonBean" />
+      <option name="PACKAGE_NAME" value="task7" />
+      <option name="MAIN_CLASS_NAME" value="task7.OrderAppTest" />
+      <option name="METHOD_NAME" value="shouldOrdersBeReturned" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.ShopAppTest2" />
-      <item itemvalue="JUnit.ShopAppTest2.shouldBeSingletonBean" />
-      <item itemvalue="Application.BasketApplication" />
       <item itemvalue="Application.BasketApplication (1)" />
       <item itemvalue="Application.ShopApplication" />
+      <item itemvalue="Application.OrderApp" />
+      <item itemvalue="JUnit.OrderAppTest" />
+      <item itemvalue="JUnit.OrderAppTest.shouldOrdersBeReturned" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OrderApp" />
+        <item itemvalue="JUnit.OrderAppTest.shouldOrdersBeReturned" />
+        <item itemvalue="JUnit.OrderAppTest" />
         <item itemvalue="Application.BasketApplication (1)" />
         <item itemvalue="Application.ShopApplication" />
-        <item itemvalue="Application.BasketApplication" />
-        <item itemvalue="JUnit.ShopAppTest2" />
-        <item itemvalue="JUnit.ShopAppTest2.shouldBeSingletonBean" />
       </list>
     </recent_temporary>
   </component>
@@ -395,24 +430,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ShopAppTest2_shouldLoadContext - 2019.12.01 at 15h 52m 15s.xml">
-      <configuration name="ShopAppTest2.shouldLoadContext" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ShopAppTest2_shouldLoadContext - 2019.12.01 at 15h 57m 03s.xml">
-      <configuration name="ShopAppTest2.shouldLoadContext" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ShopAppTest2 - 2019.12.01 at 15h 58m 12s.xml">
-      <configuration name="ShopAppTest2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ShopAppTest2 - 2019.12.01 at 15h 58m 51s.xml">
-      <configuration name="ShopAppTest2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ShopAppTest2 - 2019.12.01 at 15h 59m 05s.xml">
-      <configuration name="ShopAppTest2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ShopAppTest2 - 2019.12.01 at 16h 03m 36s.xml">
-      <configuration name="ShopAppTest2" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ShopAppTest2_shouldBeSingletonBean - 2019.12.01 at 16h 04m 13s.xml">
       <configuration name="ShopAppTest2.shouldBeSingletonBean" configurationId="JUnit" />
     </history-entry>
@@ -425,6 +442,24 @@
     <history-entry file="ShopAppTest2 - 2019.12.01 at 16h 07m 14s.xml">
       <configuration name="ShopAppTest2" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="OrderAppTest - 2019.12.06 at 22h 41m 25s.xml">
+      <configuration name="OrderAppTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OrderAppTest - 2019.12.06 at 22h 42m 45s.xml">
+      <configuration name="OrderAppTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OrderAppTest - 2019.12.06 at 22h 44m 56s.xml">
+      <configuration name="OrderAppTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OrderAppTest - 2019.12.15 at 17h 08m 32s.xml">
+      <configuration name="OrderAppTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OrderAppTest_shouldOrdersBeReturned - 2019.12.15 at 17h 15m 15s.xml">
+      <configuration name="OrderAppTest.shouldOrdersBeReturned" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OrderAppTest_shouldOrdersBeReturned - 2019.12.15 at 17h 18m 43s.xml">
+      <configuration name="OrderAppTest.shouldOrdersBeReturned" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -435,7 +470,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" sideWeight="0.50071734" side_tool="true" weight="0.24965326" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49928263" visible="true" weight="0.21543624" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49928263" visible="true" weight="0.1785235" />
       <window_info id="Structure" order="6" sideWeight="0.50071734" side_tool="true" weight="0.24965326" />
       <window_info id="DB Browser" order="7" weight="0.3295302" />
       <window_info id="Project Explorer" order="8" weight="0.3295302" />
@@ -450,7 +485,7 @@
       <window_info anchor="bottom" id="Find" order="7" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" x="796" y="586" width="721" height="229" id="Run" order="10" visible="true" weight="0.3134752" />
+      <window_info anchor="bottom" x="796" y="586" width="721" height="229" id="Run" order="10" visible="true" weight="0.29503545" />
       <window_info anchor="bottom" id="DB Execution Console" order="11" />
       <window_info anchor="bottom" id="SonarLint" order="12" />
       <window_info anchor="bottom" id="JProfiler" order="13" />
@@ -529,13 +564,6 @@
         <state relative-caret-position="-166" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/task3/ShopAppTest2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/task3/ApplicationShopContext3.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -564,13 +592,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/task2/ShopAppTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -616,13 +637,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/task4/BasketApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -630,10 +644,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/task4/Basket.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/task4/a/BasketApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="43" column="35" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
+        <state relative-caret-position="221">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -644,6 +658,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/task4/Basket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/task4/a/BasketConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -651,10 +672,88 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/task4/a/BasketApplication.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        <state relative-caret-position="266">
+          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Task7.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/task3/ShopAppTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/task2/ShopAppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/task7/OrderApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/task7/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/task7/OrderConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/task7/OrderDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/task7/OrderDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/task7/OrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/task7/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="31" column="13" lean-forward="true" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/task7/OrderAppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="33" column="41" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/task7/OrderBeanPostProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
         </state>
       </provider>
     </entry>
